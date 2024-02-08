@@ -6,15 +6,16 @@ STEPS REQUIRED TO CONTRIBUTE TO THE PROJECT
 
 3. let the dev clone the repo on his pc
 
-git clone https://github.com/sebbe60/front2024_a.git
+     git clone https://github.com/sebbe60/front2024_a.git
 
 4. let the dev create a new branch 
 
-cd into front2024_a
+   step 1.  cd into front2024_a 
+   step 2. run git checkout mynewbranch
 
-example: git checkout mynewbranch
+   example: git checkout mynewbranch
 
-mynewbranch should be whatevewr name the dev want to give to the branch
+   mynewbranch should be whatevewr name the dev want to give to the branch
 
 5. do changes
 6. git push  // pushes the code to the new branch
