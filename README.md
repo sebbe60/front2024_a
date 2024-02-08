@@ -1,3 +1,42 @@
+STEPS REQUIRED TO CONTRIBUTE TO THE PROJECT
+
+1. send the dev an invite to join as colabrator using their github username
+
+2. The dev should accept the invite which give him access to push and do changes
+
+3. let the dev clone the repo on his pc
+
+git clone https://github.com/sebbe60/front2024_a.git
+
+4. let the dev create a new branch 
+
+cd into front2024_a
+
+example: git checkout mynewbranch
+
+mynewbranch should be whatevewr name the dev want to give to the branch
+
+5. do changes
+6. git push  // pushes the code to the new branch
+
+
+//side note
+dev can check their current branch using
+git branch        //current branch will have * on it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
